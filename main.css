@@ -1,0 +1,23 @@
+@charset "utf-8";
+#container {
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	background-color: #D0D0D0;
+}
+h1 {
+	color: #101011;
+	font-style: normal;
+	font-weight: 400;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 3em;
+	margin-top: auto;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+p {
+	line-height: normal;
+	font-size: 1.2em;
+}
